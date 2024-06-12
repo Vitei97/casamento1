@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escolha um presente</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #b3d9ff; /* Azul bebê */
+        }
+        .container {
+            width: 14cm;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+            height: 2cm;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ddd;
+            background-color: #e0ffff; /* Azul ciano mais claro */
+            box-shadow: 10px 10px 20px -10px rgba(0, 0, 0, 0.5); /* Sombra da direita para a esquerda, pegando parte de baixo */
+        }
+        .name-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .name-list li {
+            margin: 10px 0;
+            font-size: 18px;
+        }
+        .name-list li a {
+            text-decoration: none;
+            color: black;
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #f0f0f0; /* Cor da bolha */
+            border-radius: 25px; /* Borda arredondada para formar a bolha */
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            border: 1px solid #ccc; /* Contorno fino */
+            transition: background-color 0.3s;
+        }
+        .name-list li a:hover {
+            background-color: #d3d3d3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">Escolha um presente e mande no grupo a baixo</div>
+        <ul class="name-list">
+            <li><a href="https://www.magazineluiza.com.br/espremedor-de-frutas-mondial-e-02-premium-eletrico-30w-125l-automatico/p/021801029/ep/espe/">espremedor de suco</a></li>
+            <li><a href="https://www.magazineluiza.com.br/fritadeira-air-fryer-britania-bella-cuccina-bcfr04-38l/p/jfj788de3j/ep/efso/">air fryer</a></li>
+            <li><a href="https://www.magazineluiza.com.br/roupa-de-cama-casal-queen-size-jogo-lencol-400-fios-micropercal-3-pcs-toque-macio-premium-f-v-enxovais/p/hehe0781k9/cm/cjct/">conjunto de lençol</a></li>
+            <li><a href="https://www.magazineluiza.com.br/multiprocessador-mondial-mp-16-300w-preto-e-prata-127v/p/ae99cjj533/ep/prsa/">multi processador</a></li>
+            <li><a href="https://www.google.com/search?sca_esv=8b4a0b2f1f186285&sca_upv=1&sxsrf=ADLYWIJxO0z_8vTrtvmnuA7K6FyrtYxsgA:1718154684490&q=microondas&tbm=shop&source=lnms&prmd=sivnmbtz&ved=1t:200715&ictx=111&biw=1536&bih=776&dpr=1.25">microondas</a></li>
+            <li><a href="https://www.magazineluiza.com.br/sanduicheira-britania-toast-preta-750w-antiaderente/p/222056900/ep/gset/">sanduicheira eletrica</a></li>
+            <li><a href="https://www.magazineluiza.com.br/panela-de-pressao-panelux-magnific-antiaderente-fechamento-externo-cereja-45l/p/jkf2j92gkg/ud/udpp/?&seller_id=lojaslebiscuit&utm_source=google&utm_medium=pla&utm_campaign=&partner_id=76359&gclsrc=aw.ds&gclid=CjwKCAjw65-zBhBkEiwAjrqRMO_ZQ-qIIEhv7tyLY9Yhd-zkz6B0qIFR428GcsMKOuo6h9xB98x9WxoCMWIQAvD_BwE">panela de pressao</a></li>
+            <li><a href="https://www.magazineluiza.com.br/balde-perfect-mop-360-giratorio-limpeza-geral-esfregao/p/kkhaf6cc4b/ud/mopi/">mop giratorio</a></li>
+            <li>caso queira presentear com um pix pode mandar no numero a baixo</li>
+            <li>>19988070567<</li>
+            <li>mas lembre que o melhor presente sera sua presença</li>
+        </ul>
+      produtos eletricos 110w
+    </div>
+</body>
+</html>
